@@ -13,3 +13,4 @@ joblib
 kagglehub
 google-generativeai
 google-genai
+joblib
