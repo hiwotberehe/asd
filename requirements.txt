@@ -1,6 +1,15 @@
-streamlit
 pandas
 numpy
+matplotlib
+seaborn
 scikit-learn
-joblib
 sentence-transformers
+xgboost
+faker
+streamlit
+fastapi
+uvicorn
+joblib
+kagglehub
+google-generativeai
+google-genai
